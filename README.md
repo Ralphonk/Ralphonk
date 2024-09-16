@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umesh Joshi <h2 align="center">Also known as Ralph</h2></h1>
+<h1 align="center">Hi 👋, I'm Umesh Joshi <p align="center">(also known as Ralph)</p></h1>
 <h3 align="center">A passionate Web developer</h3>
 
 - 📫 How to reach me **rj3284863@gmail.com**
