@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Joshi <p align="center">(also known as Ralph)</p></h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 📫 How to reach me **rj3284863@gmail.com**
+- 📫 How to reach me **umeshjoshi.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GXk7vnTclg7vGfb5Z9b1pEyw9hRhG59a/view?usp=drivesdk](https://drive.google.com/file/d/1GXk7vnTclg7vGfb5Z9b1pEyw9hRhG59a/view?usp=drivesdk)
 
