@@ -1,14 +1,53 @@
-<h1 align="center">Hi 👋, I'm Umesh Joshi <p align="center">(also known as Ralph)</p></h1>
-<h3 align="center">A passionate Web developer</h3>
-
-- 📫 How to reach me **umeshjoshi.dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GXk7vnTclg7vGfb5Z9b1pEyw9hRhG59a/view?usp=drivesdk](https://drive.google.com/file/d/1GXk7vnTclg7vGfb5Z9b1pEyw9hRhG59a/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umesh joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh joshi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090C14,50:0EA5E9,100:7C3AED&text=Umesh%20Joshi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Web%20Experiences&descAlignY=59&animation=fadeIn" alt="Umesh Joshi — Frontend Developer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  Hi, I'm Umesh Joshi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Hello" />
+</h1>
+
+<p align="center">
+  <strong>Frontend Developer with 1+ year of experience</strong><br />
+  I build responsive, accessible and interactive web experiences — from polished interfaces to immersive 3D product experiences.
+</p>
+
+<p align="center">
+  <a href="mailto:umeshjoshi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/umesh-joshi-40bbb4308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1GXk7vnTclg7vGfb5Z9b1pEyw9hRhG59a/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>
+
+## About me
+
+- Frontend developer focused on clean UI, responsive layouts and smooth interactions
+- Building with React, JavaScript, TypeScript and modern CSS
+- Exploring creative development with Three.js and interactive 3D experiences
+- Comfortable working across frontend, APIs, databases and deployment workflows
+- Reach me at **umeshjoshi.dev@gmail.com**
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,threejs,vite,nodejs,express,mongodb,mysql,python,cpp,git,github,vercel&perline=10" alt="Umesh's technology stack" />
+</p>
+
+## Featured project
+
+### iPhone 18 Fold Concept
+
+An interactive 3D foldable-phone landing page and product configurator built with Three.js. Explore fold angles, finishes, storage options, wallpapers and product views.
+
+<p>
+  <a href="https://fold-studio-rahul-18.ralphjoshi1.chatgpt.site/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/Ralphonk/iphone-18-fold-concept"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ralphonk&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Umesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphonk&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Umesh's most used languages" />
+</p>
+
+<p align="center"><em>Always learning, building and turning ideas into engaging web experiences.</em></p>
