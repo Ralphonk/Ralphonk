@@ -32,22 +32,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,threejs,vite,nodejs,express,mongodb,mysql,python,cpp,git,github,vercel&perline=10" alt="Umesh's technology stack" />
 </p>
 
-## Featured project
-
-### iPhone 18 Fold Concept
-
-An interactive 3D foldable-phone landing page and product configurator built with Three.js. Explore fold angles, finishes, storage options, wallpapers and product views.
-
-<p>
-  <a href="https://fold-studio-rahul-18.ralphjoshi1.chatgpt.site/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
-  <a href="https://github.com/Ralphonk/iphone-18-fold-concept"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-</p>
-
-## GitHub activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralphonk&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Umesh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphonk&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Umesh's most used languages" />
+  <em>Always learning, building and turning ideas into engaging web experiences.</em>
 </p>
-
-<p align="center"><em>Always learning, building and turning ideas into engaging web experiences.</em></p>
