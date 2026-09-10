@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:umeshjoshi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/umesh-joshi-40bbb4308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1GXk7vnTclg7vGfb5Z9b1pEyw9hRhG59a/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1w1ru94fIKmrp4_Ki8uK_-dLRyVyCUtC8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ## About me
@@ -32,6 +32,4 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,threejs,vite,nodejs,express,mongodb,mysql,python,cpp,git,github,vercel&perline=10" alt="Umesh's technology stack" />
 </p>
 
-<p align="center">
-  <em>Always learning, building and turning ideas into engaging web experiences.</em>
-</p>
+<p align="center"><em>Always learning, building and turning ideas into engaging web experiences.</em></p>
